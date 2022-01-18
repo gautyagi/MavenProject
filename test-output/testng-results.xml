@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T18:33:53 IST" name="Suite" finished-at="2022-01-17T18:34:16 IST" duration-ms="23091">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T18:33:53 IST" name="Test" finished-at="2022-01-17T18:34:16 IST" duration-ms="23091">
+      <class name="Nagarro.E2EPrject.HomePage">
+        <test-method is-config="true" signature="initilise()[pri:0, instance:Nagarro.E2EPrject.HomePage@5a45133e]" started-at="2022-01-17T18:33:53 IST" name="initilise" finished-at="2022-01-17T18:33:56 IST" duration-ms="2833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilise -->
+        <test-method signature="Register()[pri:0, instance:Nagarro.E2EPrject.HomePage@5a45133e]" started-at="2022-01-17T18:33:56 IST" name="Register" finished-at="2022-01-17T18:34:00 IST" duration-ms="4227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method is-config="true" signature="Closer()[pri:0, instance:Nagarro.E2EPrject.HomePage@5a45133e]" started-at="2022-01-17T18:34:00 IST" name="Closer" finished-at="2022-01-17T18:34:00 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closer -->
+        <test-method is-config="true" signature="initilise()[pri:0, instance:Nagarro.E2EPrject.HomePage@5a45133e]" started-at="2022-01-17T18:34:00 IST" name="initilise" finished-at="2022-01-17T18:34:03 IST" duration-ms="2840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilise -->
+        <test-method signature="basePage(java.lang.String, java.lang.String)[pri:0, instance:Nagarro.E2EPrject.HomePage@5a45133e]" started-at="2022-01-17T18:34:03 IST" name="basePage" data-provider="getData" finished-at="2022-01-17T18:34:04 IST" duration-ms="762" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePage -->
+        <test-method is-config="true" signature="Closer()[pri:0, instance:Nagarro.E2EPrject.HomePage@5a45133e]" started-at="2022-01-17T18:34:04 IST" name="Closer" finished-at="2022-01-17T18:34:04 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closer -->
+        <test-method is-config="true" signature="initilise()[pri:0, instance:Nagarro.E2EPrject.HomePage@5a45133e]" started-at="2022-01-17T18:34:04 IST" name="initilise" finished-at="2022-01-17T18:34:08 IST" duration-ms="4483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilise -->
+        <test-method signature="basePage(java.lang.String, java.lang.String)[pri:0, instance:Nagarro.E2EPrject.HomePage@5a45133e]" started-at="2022-01-17T18:34:08 IST" name="basePage" data-provider="getData" finished-at="2022-01-17T18:34:09 IST" duration-ms="696" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcde]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePage -->
+        <test-method is-config="true" signature="Closer()[pri:0, instance:Nagarro.E2EPrject.HomePage@5a45133e]" started-at="2022-01-17T18:34:09 IST" name="Closer" finished-at="2022-01-17T18:34:10 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closer -->
+      </class> <!-- Nagarro.E2EPrject.HomePage -->
+      <class name="Nagarro.E2EPrject.Validation">
+        <test-method is-config="true" signature="initilise()[pri:0, instance:Nagarro.E2EPrject.Validation@534a5a98]" started-at="2022-01-17T18:34:10 IST" name="initilise" finished-at="2022-01-17T18:34:12 IST" duration-ms="2789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilise -->
+        <test-method signature="Assertions()[pri:0, instance:Nagarro.E2EPrject.Validation@534a5a98]" started-at="2022-01-17T18:34:12 IST" name="Assertions" finished-at="2022-01-17T18:34:12 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assertions -->
+        <test-method is-config="true" signature="Closer()[pri:0, instance:Nagarro.E2EPrject.Validation@534a5a98]" started-at="2022-01-17T18:34:12 IST" name="Closer" finished-at="2022-01-17T18:34:13 IST" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closer -->
+        <test-method is-config="true" signature="initilise()[pri:0, instance:Nagarro.E2EPrject.Validation@534a5a98]" started-at="2022-01-17T18:34:13 IST" name="initilise" finished-at="2022-01-17T18:34:15 IST" duration-ms="2828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilise -->
+        <test-method signature="Assertions()[pri:0, instance:Nagarro.E2EPrject.Validation@534a5a98]" started-at="2022-01-17T18:34:15 IST" name="Assertions" finished-at="2022-01-17T18:34:16 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assertions -->
+        <test-method is-config="true" signature="Closer()[pri:0, instance:Nagarro.E2EPrject.Validation@534a5a98]" started-at="2022-01-17T18:34:16 IST" name="Closer" finished-at="2022-01-17T18:34:16 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closer -->
+      </class> <!-- Nagarro.E2EPrject.Validation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
